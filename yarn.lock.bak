@@ -2816,7 +2816,7 @@ __metadata:
     "@babel/runtime": ^7.15.3
     "@polkadot/hw-ledger-transports": 7.1.3-3
     "@polkadot/util": 7.1.3-3
-    "@zondax/ledger-substrate": ^0.17.3
+    "@zondax/ledger-substrate": ^0.18.0
   checksum: 854c4d2ee3fc827acc785facc00a37b2e6c59c5440cc980d88f70713d6723d6a72b740f8b39c69e6d9e5b5b91527ea74625a9d25bd1a498d2824ebf9da4d5009
   languageName: node
   linkType: hard
